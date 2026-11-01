@@ -27,4 +27,4 @@ Homework 06.
 5. Run bookstore_queries.sql in the SQL tab.
 
 ## Demo Video
-[Homework 07 demo](PASTE_VIDEO_URL_HERE)
+[Homework 07 demo](https://youtu.be/D6NrGlam79U)
