@@ -37,4 +37,23 @@ Homework 06.
 5. Run bookstore_queries.sql in the SQL tab.
 
 ## Demo Video
-[Homework 07 demo](https://youtu.be/D6NrGlam79U)
+[Homework 07 demo](https://youtu.be/D6NrGlam79U
+
+
+
+
+## Homework 09 – Robust Calculator
+
+**Course:** INS3064 – Web Development
+
+**Topic:** PHP Error Handling and Debugging
+
+**Source Code:** [calculator.php](homework09/calculator.php)
+
+**Video Demonstration:** [Watch on YouTube](https://youtu.be/JOaZArbw26M)
+
+**Features:**
+- Custom exceptions and try-catch
+- Error logging
+- Session-based calculation history
+- Responsive calculator interface
